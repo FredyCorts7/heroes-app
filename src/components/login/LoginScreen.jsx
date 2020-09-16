@@ -14,6 +14,7 @@ export const LoginScreen = ({ history }) => {
         name: 'Camila',
       },
     });
+
     history.replace('/');
   };
 
