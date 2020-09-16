@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing to <LoginScreen /> should to show succesfully 1`] = `
+<div
+  className="container mt-5"
+>
+  <h1>
+    Login
+  </h1>
+  <hr />
+  <button
+    className="btn btn-info"
+    onClick={[Function]}
+  >
+    Log in
+  </button>
+</div>
+`;
